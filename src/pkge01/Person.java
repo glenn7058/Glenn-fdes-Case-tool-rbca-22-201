@@ -3,7 +3,6 @@ package pkge01;
 public class Person {
     private String name;
     private int age;
-    
 
     // Constructor
     public Person(String name, int age) {
@@ -51,6 +50,3 @@ public class Person {
         System.out.println("Age: " + person2.getAge());
     }
 }
-
-
-
